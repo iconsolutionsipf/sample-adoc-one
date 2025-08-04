@@ -1,1 +1,2 @@
 * xref:home.adoc[]
+* xref:second.adoc[]
